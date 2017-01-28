@@ -1,0 +1,7 @@
+#include <stdlin.h>
+#include <stdio.h>
+
+int main(){
+  puts("Oi, porra!");
+  return 0;
+}
